@@ -7,6 +7,8 @@ Its an easier alternative to SubSink.
 
 > You can use it with any frameworks that uses RXJS subscriptions line Angular, Nest etc.
 
+> Adds only 400 bytes to your production bundle.
+
 ## Installation
 
 ```bash

@@ -1,6 +1,6 @@
 {
   "name": "multisubscription",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "The best and and simplest way to unsubscribe your subscriptions inside andgular or nest applications.",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
@@ -9,9 +9,14 @@
   },
   "keywords": [
     "subscription",
+    "rxjs",
+    "typescript",
     "angular",
     "nest",
     "unsubscribe",
+    "multiple unsubscription",
+    "multiple subscription",
+    "multiple unsubscribe",
     "multi-subscription",
     "multi-unsubscribe",
     "subsink"
