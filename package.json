@@ -1,5 +1,5 @@
 {
-  "name": "multisubscription",
+  "name": "multi-subscription",
   "version": "1.0.0",
   "description": "The best and and simplest way to unsubscribe your subscriptions inside andgular or nest applications.",
   "main": "./dist/index.js",

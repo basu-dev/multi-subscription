@@ -12,7 +12,7 @@ Its an easier alternative to SubSink.
 ## Installation
 
 ```bash
-npm install multisubscription --save
+npm install multi-subscription --save
 ```
 
 ## Examples
