@@ -1,0 +1,30 @@
+{
+  "name": "multisubscription",
+  "version": "1.0.0",
+  "description": "The best and and simplest way to unsubscribe your subscriptions inside andgular or nest applications.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "subscription",
+    "angular",
+    "nest",
+    "unsubscribe",
+    "multi-subscription",
+    "multi-unsubscribe",
+    "subsink"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Basu Dev Adhikari <adbasudev54@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/basu-dev/multisubscription.git"
+  },
+  "bugs": {
+    "url": "https://github.com/basu-dev/multisubscription.git/issues"
+  }
+}
